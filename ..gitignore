@@ -1,0 +1,16 @@
+# Python 相关文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 日志文件
+*.log
+
+# 配置文件
+/bili/
+/www/
+
+# 临时文件
+temp/
+*.tmp
